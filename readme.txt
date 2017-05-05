@@ -7,3 +7,4 @@ Git tracks changes of files
 add local contents
 create a new branch is quick
 creating a new branch is quick and simple.
+add merge
