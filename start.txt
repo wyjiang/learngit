@@ -1,0 +1,1 @@
+This is start.txt of /projects/git/learngit
