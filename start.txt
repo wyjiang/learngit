@@ -1,3 +1,4 @@
 This is start.txt of /projects/git/learngit
 before dev
 creating a new branch is quick.
+creating a new branch is quick and simple.
